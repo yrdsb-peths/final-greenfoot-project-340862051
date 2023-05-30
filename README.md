@@ -1,6 +1,5 @@
 # Final Greenfoot Project
-This is the README.md file.
-
-Consider using **Markdown** syntax to format the text in this file. [Markdown basics](https://www.markdownguide.org/getting-started/)
+My final project will be similar to the game Crossy Road. 
+It is a game where you tap the spacebar to move a character aross the screen while dodging stuff such as cars while trying to cross the road. 
 
 
